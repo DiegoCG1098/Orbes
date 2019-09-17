@@ -14,7 +14,7 @@ import com.hampcode.model.repository.SupplierRepository;
 public class SupplierBusiness implements Serializable {
 
 	private Long id;
-	private int numer;
+	private int num;
 	
 	private static final long serialVersionUID = 1L;
 	
